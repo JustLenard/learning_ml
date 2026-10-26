@@ -6,7 +6,7 @@ readme = "README.md"
 authors = [
     { name = "JustLenard", email = "justleard.justme@gmail.com" }
 ]
-requires-python = ">=3.14"
+requires-python = ">=3.13"
 dependencies = [
     "jupyter>=1.1.1",
     "numpy>=2.5.4",
